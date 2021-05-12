@@ -197,10 +197,10 @@ chalk@~0.4.0:
   version "5.54.0"
   resolved "https://github.com/codemirror/CodeMirror/archive/5.54.0.tar.gz#729c36a188d7be8e977ce95e214920a74b61f94e"
 
-codemirror@5.54.0:
-  version "5.54.0"
-  resolved "https://registry.npmjs.org/codemirror/-/codemirror-5.54.0.tgz#82b6adf662b29eeb7b867fe7839d49e25e4a0b38"
-  integrity sha512-Pgf3surv4zvw+KaW3doUU7pGjF0BPU8/sj7eglWJjzni46U/DDW8pu3nZY0QgQKUcICDXRkq8jZmq0y6KhxM3Q==
+codemirror@5.58.2:
+  version "5.58.2"
+  resolved "https://registry.yarnpkg.com/codemirror/-/codemirror-5.58.2.tgz#ed54a1796de1498688bea1cdd4e9eeb187565d1b"
+  integrity sha512-K/hOh24cCwRutd1Mk3uLtjWzNISOkm4fvXiMO7LucCrqbh6aJDdtqUziim3MZUI6wOY0rvY1SlL1Ork01uMy6w==
 
 color-convert@^1.9.0:
   version "1.9.3"

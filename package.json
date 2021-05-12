@@ -22,7 +22,7 @@
         "brackets": ">=0.39"
     },
     "devDependencies": {
-        "codemirror": "5.54.0",
+        "codemirror": "5.58.2",
         "codemirror-test": "https://github.com/codemirror/CodeMirror/archive/5.54.0.tar.gz",
         "eslint": "^7.1.0",
         "node-static": "^0.7.11",
